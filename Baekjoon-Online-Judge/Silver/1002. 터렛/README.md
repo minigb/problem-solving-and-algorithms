@@ -4,7 +4,7 @@
 
 ### Tags
 
-많은 조건 분기, 기하학, 수학
+case work, geometry, mathematics
 
 ### Problem Description
 

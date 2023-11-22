@@ -4,7 +4,7 @@
 
 ### Tags
 
-구현, 사칙연산, 수학
+implementation, arithmetic, mathematics
 
 ### Problem Description
 
